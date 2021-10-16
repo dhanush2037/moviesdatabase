@@ -1,2 +1,3 @@
-# moviesdatabase
-movies database using sqlite 
+# moviesdatabase 
+created a table of movies and querying them with or without parameters
+
